@@ -4,3 +4,5 @@ pandas
 numpy
 pyarrow
 pyspark==3.3.2
+pytest 
+psycopg2-binary==2.9.7  # Pour interagir avec PostgreSQL
